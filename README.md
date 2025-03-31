@@ -1,4 +1,3 @@
-HEAD
 # workspace
 
 A new Flutter project.
