@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main circle -->
+  <circle cx="100" cy="100" r="90" fill="#2196F3" opacity="0.1" />
+  <circle cx="100" cy="100" r="80" stroke="#2196F3" stroke-width="4" />
+  
+  <!-- Q letter -->
+  <path d="M77 130C65.9543 130 57 121.046 57 110V90C57 78.9543 65.9543 70 77 70H87C98.0457 70 107 78.9543 107 90V110C107 121.046 98.0457 130 87 130H77Z" stroke="#2196F3" stroke-width="6" />
+  <path d="M102 125L115 138" stroke="#2196F3" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- C letter -->
+  <path d="M143 110C143 121.046 134.046 130 123 130H113C101.954 130 93 121.046 93 110V90C93 78.9543 101.954 70 113 70H123C134.046 70 143 78.9543 143 90" stroke="#FF9800" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- F letter -->
+  <path d="M148 70H168" stroke="#4CAF50" stroke-width="6" stroke-linecap="round" />
+  <path d="M148 70V130" stroke="#4CAF50" stroke-width="6" stroke-linecap="round" />
+  <path d="M148 100H163" stroke="#4CAF50" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- P letter -->
+  <path d="M40 70V130" stroke="#673AB7" stroke-width="6" stroke-linecap="round" />
+  <path d="M40 70H50C56.0751 70 61 74.9249 61 81V89C61 95.0751 56.0751 100 50 100H40" stroke="#673AB7" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Check mark icon -->
+  <path d="M67 107L77 117L93 97" stroke="#4CAF50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
