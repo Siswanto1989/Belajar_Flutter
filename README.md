@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Belajar_Flutter
+Sedang Belajar Flutter dan Github
+=======
+>>>>>>> 5fd4c9e (Initial commit)
 # workspace
 
 A new Flutter project.
@@ -14,3 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+>>>>>>> 36af435 (Initial commit)
+>>>>>>> 5fd4c9e (Initial commit)
