@@ -66,8 +66,8 @@ Aplikasi iOS harus didistribusikan melalui App Store atau TestFlight. Hubungi pe
 
 ## Informasi Login
 ### Admin
-- NIK: 11702
-- PIN: 250184
+- NIK: *****
+- PIN: ******
 
 ### Foreman/Inspector
 - Masuk melalui halaman pemilihan peran tanpa perlu login
